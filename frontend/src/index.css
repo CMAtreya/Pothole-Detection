@@ -1,0 +1,4 @@
+/* Entry-point stylesheet for the application.
+   This delegates to style.css so the existing styling remains unchanged. */
+
+@import './style.css';
